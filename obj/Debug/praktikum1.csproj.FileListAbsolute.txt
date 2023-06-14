@@ -1,0 +1,10 @@
+C:\Users\Hilda Afifah\source\repos\praktikum1\bin\Debug\praktikum1.exe.config
+C:\Users\Hilda Afifah\source\repos\praktikum1\bin\Debug\praktikum1.exe
+C:\Users\Hilda Afifah\source\repos\praktikum1\bin\Debug\praktikum1.pdb
+C:\Users\Hilda Afifah\source\repos\praktikum1\obj\Debug\praktikum1.csproj.AssemblyReference.cache
+C:\Users\Hilda Afifah\source\repos\praktikum1\obj\Debug\praktikum1.Form1.resources
+C:\Users\Hilda Afifah\source\repos\praktikum1\obj\Debug\praktikum1.Properties.Resources.resources
+C:\Users\Hilda Afifah\source\repos\praktikum1\obj\Debug\praktikum1.csproj.GenerateResource.cache
+C:\Users\Hilda Afifah\source\repos\praktikum1\obj\Debug\praktikum1.csproj.CoreCompileInputs.cache
+C:\Users\Hilda Afifah\source\repos\praktikum1\obj\Debug\praktikum1.exe
+C:\Users\Hilda Afifah\source\repos\praktikum1\obj\Debug\praktikum1.pdb
